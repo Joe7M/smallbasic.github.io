@@ -1,5 +1,13 @@
 # News
 
+### New article for the IOIO plugin
+
+::: date
+| August 8, 2024
+:::
+
+For details see: [Article IOIO plugin](https://smallbasic.github.io/pages/plugins_ioio.html)
+
 ### Syntax highlighting for ecode editor by bprlhe
 
 ::: date
